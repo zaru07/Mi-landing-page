@@ -10,7 +10,7 @@
 
 body {
     font-family: "inter", sans-serif;
-    line-height: 3.6;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: var(--background-color);
@@ -20,7 +20,7 @@ body {
 
 .header {
     background: var(--secondary-color);
-    color: rgb(148, 109, 109);
+    color: rgb(218, 177, 218);
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
