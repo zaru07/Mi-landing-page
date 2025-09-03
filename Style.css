@@ -107,7 +107,7 @@ body {
 /*Tamaño del titulo para estudios y experiencia*/
 .section-title {
     font-size: 4rem;
-    color: #1c0d02;
+    color: (--secondary-color);
     margin-bottom: 2rem;
     position: relative;
     display: inline-block;
@@ -118,7 +118,7 @@ body {
     display: block;
     width: 50%;
     height: 4px;
-    background: #1c0d02;
+    background: (--secondary-color);
     margin: 10px auto 0;
 }
 
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
