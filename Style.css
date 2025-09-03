@@ -1,6 +1,6 @@
-/* Creación de variables a  utilizar */
+
 :root {
-    --primary-color: #1d573e;
+    --primary-color: #1d563e;
     --secondary-color: #374432;
     --text-color: #333333;;
     --background-color: #f4f4f4;
@@ -17,7 +17,7 @@ body {
     color: var(--text-color);
     scroll-behavior: smooth;
 }
-/*Sección para cambiar color de la barra de sección*/
+
 .header {
     background: var(--secondary-color);
     color: rgb(148, 109, 109);
@@ -276,4 +276,5 @@ del area de Estudios realizados y experiencia laboral*/
     .list li {
         text-align: center;
     }
+
 }
