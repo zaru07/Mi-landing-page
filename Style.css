@@ -172,7 +172,7 @@ del area de Estudios realizados y experiencia laboral*/
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 2rem;
+    gap: 2rem
 }
 
 .skill-group {
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
