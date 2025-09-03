@@ -13,13 +13,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #EE82EE;
+    background-color: #1c0d02;
     color: var(--text-color);
     scroll-behavior: smooth;
 }
 
 .header {
-    background: #EE82EE;
+    background: var(--secondary-color);
     color: rgb(218, 177, 218);
     padding: 1rem 0;
     position: fixed;
@@ -50,7 +50,7 @@ body {
     list-style: none;
     cursor: pointer;
     padding: 0.5rem 1rem;
-    background-color: #EE82EE;
+    background-color: #1c0d02;
     color: white;
     border-radius: 5px;
 }
@@ -63,7 +63,7 @@ body {
     display: flex;
     position: absolute;
     right: 0;
-    background-color: #EE82EE;
+    background-color: #1c0d02;
     padding: 1rem;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
