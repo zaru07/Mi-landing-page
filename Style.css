@@ -13,13 +13,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(--background-color);
+    background-color: #EE82EE;
     color: var(--text-color);
     scroll-behavior: smooth;
 }
 
 .header {
-    background: var(--secondary-color);
+    background: #EE82EE;
     color: rgb(218, 177, 218);
     padding: 1rem 0;
     position: fixed;
@@ -43,14 +43,14 @@ body {
 .accordion-nav {
     position: relative;
     display: inline-block;
-    margin-right: 20px; /* Ajusta el margen a la derecha */
+    margin-right: 20px;
 }
 
 .accordion-nav summary {
     list-style: none;
     cursor: pointer;
     padding: 0.5rem 1rem;
-    background-color: var(--primary-color);
+    background-color: #EE82EE;
     color: white;
     border-radius: 5px;
 }
@@ -63,7 +63,7 @@ body {
     display: flex;
     position: absolute;
     right: 0;
-    background-color: var(--secondary-color);
+    background-color: #EE82EE;
     padding: 1rem;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -71,7 +71,7 @@ body {
 }
 
 .accordion-nav .nav-link {
-    color: white; /* Cambiar color de los enlaces dentro del acordeón */
+    color: white;
     padding: 0.5rem 0;
     display: block;
 }
@@ -80,9 +80,9 @@ body {
     color: var(--light-gray);
 }
 
-/*Sección para cambiar color de las palabras en la barra de sección*/
+
 .nav-link {
-    color: rgb(93, 94, 32);
+    color: rgb(87, 35, 100);
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
@@ -106,7 +106,7 @@ body {
 
 /*Tamaño del titulo para estudios y experiencia*/
 .section-title {
-    font-size: 2rem;
+    font-size: 4rem;
     color: var(--secondary-color);
     margin-bottom: 2rem;
     position: relative;
@@ -152,7 +152,7 @@ body {
 /*Sección para cambiar colores de fondo, tamaño de letra y alineación del texto o contenedores
 del area de Estudios realizados y experiencia laboral*/
 .list li {
-    background-color: rgb(210, 238, 205);
+    background-color: rgb(85, 35, 100);
     border-left: 5px solid var(--primary-color);
     padding: 1rem;
     margin-bottom: 1rem;
@@ -189,7 +189,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color a la letra o fondo de cada link en el Linktree */
 .linktree-link {
-    background-color: rgb(220, 200, 150);
+    background-color: rgb(102, 0, 161);
     color: rgb(250, 250, 250);
     text-decoration: none;
     padding: 1rem 2rem;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
