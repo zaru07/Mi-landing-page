@@ -162,7 +162,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 .list-inline li {
     display: inline-block;
-    background-color: var(--light-gray);
+    background-color: rgb(255, 255, 255);
     padding: 0.5rem 1rem;
     border-radius: 20px;
     margin: 0.5rem;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
